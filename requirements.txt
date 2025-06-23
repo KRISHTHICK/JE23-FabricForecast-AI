@@ -1,0 +1,6 @@
+streamlit
+Pillow
+langchain
+ollama
+faiss-cpu
+PyMuPDF
